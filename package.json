@@ -1,0 +1,28 @@
+{
+  "name": "bitzprice",
+  "version": "1.0.0",
+  "description": "Sample Next.js app which whos the current Bitcoin value in USD, GBP and EUR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jscodelover/bitzprice.git"
+  },
+  "keywords": [
+    "nextjs",
+    "react"
+  ],
+  "author": "jscodelover",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jscodelover/bitzprice/issues"
+  },
+  "homepage": "https://github.com/jscodelover/bitzprice#readme",
+  "dependencies": {
+    "next": "^9.1.4",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
